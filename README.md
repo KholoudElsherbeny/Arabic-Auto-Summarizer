@@ -1,7 +1,7 @@
 # Arabic-Auto-Summarizer
 ### ANLP
 
-!
+
 ##### logo
 ![Screenshot 2023-04-25 201649](https://user-images.githubusercontent.com/92096667/234367080-efbbf0d7-9dfb-4c71-98ef-7320ff188974.png)
 
